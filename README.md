@@ -15,10 +15,9 @@ This project focuses on:
 - ECC (Elliptic Curve Cryptography)
 - NTRU (Lattice-based cryptography)
 
-## ⚙️ Tech Stack
-- Python
-- Matplotlib / Pandas (for plotting results)
-- Raspberry Pi (for hardware testing, if applicable)
+## RSA(Rivest, Shamir, and Adleman)
+
+
 
 ## 📈 Output
 The system outputs performance metrics and visual comparisons to guide algorithm selection based on use-case and environment.
